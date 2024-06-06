@@ -37,9 +37,9 @@ On the other hand, I started to combine Pascal with many other programming langu
 Generally, OF COURSE the repositories are helpful. They don't only show my development and learning curve, but the projects could be also used as a base for own applications.
 
 There are four types of repositories which names carry the following description words:
-- FREEZED: These repositories usually won't be updated and only exist for backupping or sharing. You may reuse their contents for own projects. You may beg for editing rights to modify and improve the project INSIDE THE CURRENT REPOSITORY.
-- GREAT: The projects inside these repositories represent my main work and my own software visions. Finally, they will be also pinned at my GitHub profile page
-- ACTIVE: Such repositories can be categorized between FREEZED and GREAT: I maintain them currently (mostly for personal needs), but will be inactive as they seem to be completed
-- PHYSICAL: [I'M UNSURE IF I REALLY WOULD POST THE WORK PROGRESS OF MY HANDCRAFTED NOT-PROGRAMMED GADGETS ON THIS PLATFORM]
+- FROZEN: These repositories usually won't be updated and only exist for backupping or sharing. You may reuse their contents for own projects. You may beg for editing rights to modify and improve the project INSIDE THE CURRENT REPOSITORY.
+- DIAMOND: The projects inside these repositories represent my main work and my own software visions. Finally, they will be also pinned at my GitHub profile page
+- SOMETIMES: Such repositories can be categorized between FROZEN and DIAMOND: I maintain them currently (mostly for personal needs), but will be inactive as they seem to be completed
+- REALLIFE: [I'M UNSURE IF I REALLY WOULD POST THE WORK PROGRESS OF MY HANDCRAFTED NOT-PROGRAMMED GADGETS ON THIS PLATFORM]
 
 The instructions for project editing and compilation can be found inside the readme.md of the according repository. Hopefully there wouldn't be any issues...
